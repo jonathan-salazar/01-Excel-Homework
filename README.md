@@ -1,7 +1,7 @@
 # 01-VBA-Homework
 This is my VBA homework for the USC Data analytics bootcamp
 
-This vba code loops through all the stocks for one year and outputs the following information.
+This vba code loops through all worksheets in a workbook and takes the stocks for one year and outputs the following information.
 
   - The ticker symbol.
 
